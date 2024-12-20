@@ -1,0 +1,19 @@
+{
+  "name": "02-countries-rv",
+  "version": "1.0.0",
+  "description": "Sur la thématique de votre choix, réaliser une app' rendu coté serveur.\r En `EcmaScriptModule`.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "jsonfile": "^6.1.0"
+  }
+}
